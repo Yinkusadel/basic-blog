@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](adels-react-calculator-app.netlify.app)
+[Live Demo Link](https://basic-blog-adel.netlify.app)
 
 ### Development (Running locally)
 
